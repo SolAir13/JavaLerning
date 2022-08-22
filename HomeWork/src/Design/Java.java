@@ -3,6 +3,7 @@ package Design;
 import java.util.Random;
 import java.util.Scanner;
 
+
 class WorkNew {
     static Random rd = new Random();
     static Scanner sc = new Scanner(System.in);
